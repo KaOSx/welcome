@@ -18,6 +18,7 @@
         <file>translations/translateFile_sr_RS@latin.qm</file>
         <file>translations/translateFile_sr_RS.qm</file>
         <file>translations/translateFile_id_ID.qm</file>
+        <file>translations/translateFile_pt_PT.qm</file>
     </qresource>
 </RCC>
 
