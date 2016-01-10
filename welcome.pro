@@ -48,8 +48,9 @@ sources.files = $$SOURCES $$HEADERS $$RESOURCES $$FORMS *.pro
 sources.path = .
 desktop.path = /usr/share/applications
 desktop.files += welcome.desktop
-icon.files += welcome.png
+icon.files += welcome.svg
 icon.path += /usr/share/pixmaps
 INSTALLS += target desktop icon 
               
+
 

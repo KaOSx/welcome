@@ -6,11 +6,11 @@
         <file>translations/translateFile_nl_NL.qm</file>
         <file>translations/translateFile_es_AR.qm</file>
         <file>translations/translateFile_pt_BR.qm</file>
-	<file>translations/translateFile_tr_TR.qm</file>
-	<file>translations/translateFile_de.qm</file>
-	<file>translations/translateFile_ru.qm</file>
-	<file>translations/translateFile_nl_BE.qm</file>
-	<file>translations/translateFile_ca.qm</file>
+        <file>translations/translateFile_tr_TR.qm</file>
+        <file>translations/translateFile_de.qm</file>
+        <file>translations/translateFile_ru.qm</file>
+        <file>translations/translateFile_nl_BE.qm</file>
+        <file>translations/translateFile_ca.qm</file>
         <file>translations/translateFile_cs.qm</file>
         <file>translations/translateFile_hr_HR.qm</file>
         <file>translations/translateFile_hu.qm</file>
@@ -19,6 +19,12 @@
         <file>translations/translateFile_sr_RS.qm</file>
         <file>translations/translateFile_id_ID.qm</file>
         <file>translations/translateFile_pt_PT.qm</file>
+        <file>images/release.svg</file>
+        <file>images/information.svgz</file>
+        <file>images/help.svg</file>
+        <file>images/partition-disk.svg</file>
+        <file>images/logo.png</file>
+        <file>images/folder-publicshare.svg</file>
+        <file>images/document.svg</file>
     </qresource>
 </RCC>
-
