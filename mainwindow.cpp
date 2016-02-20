@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2013-2014       Anke Boersma <demm@kaosx.us>
+ * Copyright (c) 2013-2016       Anke Boersma <demm@kaosx.us>
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
