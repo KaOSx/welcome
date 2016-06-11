@@ -75,5 +75,5 @@ void MainWindow::Guide()
 
 void MainWindow::Forum()
 {
-    QDesktopServices::openUrl(QUrl("http://kaosx.us/phpBB3"));
+    QDesktopServices::openUrl(QUrl("http://forum.kaosx.us/"));
 }
