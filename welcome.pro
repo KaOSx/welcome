@@ -40,6 +40,7 @@ TRANSLATIONS  += translateFile.ts \
               translations/translateFile_sr_RS@latin.ts \
               translations/translateFile_sr_RS.ts \
               translations/translateFile_id_ID.ts \
+              translations/translateFile_pl.ts \
               translations/translateFile_pt_PT.ts \
               translations/translateFile_ar.ts \
               
