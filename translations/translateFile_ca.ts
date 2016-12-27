@@ -4,12 +4,12 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>Welcome to KaOS</source>
-        <translation>Benvingut/da a KaOS</translation>
+        <translation>Benvingut al KaOS</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="103"/>
         <source>Install KaOS</source>
-        <translation>Instal·la KaOS</translation>
+        <translation>Instal·la el KaOS</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="199"/>
