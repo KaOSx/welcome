@@ -4,7 +4,7 @@
     <message>
         <location filename="mainwindow.ui" line="14"/>
         <source>Welcome to KaOS</source>
-        <translation>Bem vindo ao KaOS</translation>
+        <translation>Bem-vindo ao KaOS</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="103"/>
