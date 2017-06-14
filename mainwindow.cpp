@@ -28,7 +28,7 @@ MainWindow::MainWindow(QWidget *parent) :
     flags = Qt::Window
             | Qt::WindowMinimizeButtonHint
             | Qt::WindowCloseButtonHint;
-        setFixedSize(550,400);
+        setFixedSize(640,400);
     setWindowFlags( flags );
 
     // signals/slots mechanism in action
